@@ -2,5 +2,5 @@
     "name": "Organization Build Workflow",
     "description": "Ljupcho Kostoski Build Starter Workflow.",
     "iconName": "octicon organization",
-    "categories": ["Build"]
+    "categories": ["Deployment"]
 }
